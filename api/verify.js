@@ -1,5 +1,5 @@
 const VALID_KEYS = [
-  "DICE-XXXX-1110",
+  "DICE-XXXX-1111",
   "DICE-YYYY-2222",
   "DICE-ZZZZ-3333"
 ];
