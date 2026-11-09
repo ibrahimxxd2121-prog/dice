@@ -2,6 +2,7 @@ const VALID_KEYS = [
   "DICE-XXXX-1111",
   "DICE-YYYY-2222",
   "DICE-ZZZZ-3333"
+  "DICE-ZZZZ-1234"
 ];
 
 const UPSTASH_URL   = "https://special-python-152717.upstash.io";
